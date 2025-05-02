@@ -55,7 +55,7 @@ GetX – State Management
 Clone the repository
 
 bash
-git clone https://github.com/yourusername/firebase-miner.git
+git clone https://github.com/Vishakha1510/firebase-miner.git
 cd firebase-miner
 Install dependencies
 
