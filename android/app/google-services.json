@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "440403947244",
+    "project_id": "chatapp-firebaseminer",
+    "storage_bucket": "chatapp-firebaseminer.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:440403947244:android:d3927cf93583594a927fc9",
+        "android_client_info": {
+          "package_name": "com.example.chatterbox"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "440403947244-dpusdsq5ksanuklka8jrs5c251hpv4pn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chatterbox",
+            "certificate_hash": "de0c163277362793303fcc8761bc09ff2b55562c"
+          }
+        },
+        {
+          "client_id": "440403947244-qh2fundvk7f83ifi3ksg57fmlj0grjg7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnVGdgCBX3vS43ofIdDn7ddJd7aeDwZdU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "440403947244-qh2fundvk7f83ifi3ksg57fmlj0grjg7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "440403947244-1uou2bnie5tme94psp3odl2lrab68h0g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.chatterbox"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
